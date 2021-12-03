@@ -14,11 +14,10 @@ a[4:] = 'Jogja', 'Bali'
 print("Ubah elemen ke 4 sampai dengan elemen terakhir = ", a[4:])
 
 # Tambah elemen list
-a =[1,2,3,4,5]
-b =[6,7,8,9,10]
+a = [1,2,3,4,5]
+b = [6, 7, 8, 9, 10, a[1:3]]
 
 # Ambil 2 buah bagian list A ke ist B
-b.append(a[1:3])
 print("2 bagian dari list A dijadikan list B: ", b)
 
 # Tambah list B dengan nilai string
