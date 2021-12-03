@@ -20,11 +20,14 @@ Berikut ini adalah screenshot programnya :
 
 1. Hal pertama yang dilakukan adalah membuat flowchart. Fungsi flowchart ini untuk memudahkan kita dalam menulis program. Berikut ini adalah gambar flowchartnya :
 
-![flowchart praktikum4]()
+![flowchart praktikum4](https://user-images.githubusercontent.com/92660371/144609866-965cd798-081f-4094-beef-234d4c10b208.jpeg)
+
 
 2. Kedua membuat program. Berikut ini adalah programnya :
 
-![ss rumus]()
+![ss rumus](https://user-images.githubusercontent.com/92660371/144609897-f2ad372a-2e89-4acb-a755-d52de5a7097a.png)
+
+
 
 dengan keterangan
 
@@ -113,4 +116,5 @@ dengan keterangan
 
 
 ## Berikut hasil dari programnya
-![ss tampilan akhir]()
+
+![ss tampilan akhir](https://user-images.githubusercontent.com/92660371/144609931-b729ee74-8ec1-4188-bf56-b5ba01b809b9.png)
