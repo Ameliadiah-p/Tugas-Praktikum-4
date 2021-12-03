@@ -11,7 +11,8 @@
 ## Bentuk program latihan di Tugas Praktikum
 Berikut ini adalah screenshot programnya :
 
-![ss.lat1]()
+![ss lat1](https://user-images.githubusercontent.com/92660371/144609105-1ff2d5a7-b76b-4cd0-a569-7635ef779bc5.png)
+
 
 
 
